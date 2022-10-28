@@ -64,7 +64,6 @@ Single post desribes about each blog item briefly
 
 
 
-
 Contact block have the location of shop and enquiries block
 
 
@@ -74,4 +73,18 @@ Contact block have the location of shop and enquiries block
 
 
 
+
+this is my microsoft azure deployment
+
+
+
+
+![azure](https://user-images.githubusercontent.com/109576934/198697199-b2d7a377-dcb5-4599-9a5a-6e3debcd7ffd.jpg)
+
+
+
+
+
+
+this is my projcet link 
 

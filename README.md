@@ -86,5 +86,5 @@ this is my microsoft azure deployment
 
 
 
-this is my projcet link 
+this is my projcet link   https://green-rock-06db0fd10.1.azurestaticapps.net/
 
